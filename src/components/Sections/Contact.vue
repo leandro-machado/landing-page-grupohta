@@ -40,9 +40,6 @@
                                     <tr>
                                         <td>vendas@grupohta.com.br</td>
                                     </tr>
-                                    <tr>
-                                        <td>@mdo</td>
-                                    </tr>
                                 </tbody>
                             </table>
                         </div>  
