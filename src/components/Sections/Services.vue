@@ -1,6 +1,6 @@
 <template>
     <!--START SERVICES-->
-        <section class="section pt-5 scroll-select" id="services">
+        <section class="section pt-5 scroll-select bg-light" id="services">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">

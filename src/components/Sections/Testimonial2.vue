@@ -1,6 +1,6 @@
 <template>
     <!--START TESTIMONIAL-->
-        <section class="section pt-4 scroll-select bg-light" id="team">
+        <section class="section pt-4 scroll-select" id="team">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">

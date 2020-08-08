@@ -147,7 +147,7 @@ b {
 
 .bg-overlay {
     background: linear-gradient(to right, #2E385C, #2E385C);
-    opacity: 0.9;
+    opacity: 0.6;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -464,8 +464,8 @@ iframe {
 
 .home-desc {
     color: rgba(255, 255, 255, 0.7);
-    font-size: 15px;
-    max-width: 600px;
+    font-size: 18px;
+    max-width: 1500px;
     margin: 0 auto;
 }
 

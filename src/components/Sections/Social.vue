@@ -12,9 +12,7 @@
                             <li class="list-inline-item"><a href="" class="social-icon"><i class="mdi mdi-dribbble"></i></a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 margin-t-30">
-                        <p class="margin-b-0 contact-title"><i class="pe-7s-call"></i> &nbsp;+11 9 7222-1900</p>
-                    </div>
+                    <div class="col-lg-3 margin-t-30"></div>
                     <div class="col-lg-3 margin-t-30 text-right">
                         <p class="contact-title"><i class="pe-7s-mail-open"></i>&nbsp; sac@grupohta.com.br</p>
                     </div>
