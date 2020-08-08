@@ -2,6 +2,13 @@
     <!--START SERVICES-->
         <section class="section pt-5 scroll-select" id="numbers">
             <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <h1 class="section-title text-center">Quem somos</h1>
+                        <div class="section-title-border margin-t-20"></div>
+                        <p class="section-subtitle text-black text-center padding-t-30 font-secondary">Somos uma empresa de intermediação de negócios atuando em mais de 15 segmentos</p>
+                    </div>
+                </div>
                 <div class="row margin-t-30">
                     <div class="col-lg-3 margin-t-20">
                         <div class="services-box text-center hover-effect">
